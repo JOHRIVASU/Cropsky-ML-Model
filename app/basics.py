@@ -7,7 +7,7 @@ import numpy as np
 app = Flask(__name__)
 
 # Load your Keras model
-model = load_model("C:/Users/VASU/OneDrive/Desktop/plant-disease-prediction-cnn-deep-leanring-project-main/app/trained_model/plant_disease_model.h5")
+model = load_model("C:/Users/VASU/OneDrive/Desktop/plant-disease-prediction-cnn-deep-leanring-project-main/trained_model/plant_disease_model.h5")
 
 # Route for handling the home page
 @app.route('/')
