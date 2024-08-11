@@ -8,7 +8,7 @@ import streamlit as st
 
 
 working_dir = os.path.dirname(os.path.abspath(__file__))
-model_path ='C:/Users/VASU/OneDrive/Desktop/plant-disease-prediction-cnn-deep-leanring-project-main/app/trained_model/plant_disease_model.h5'
+model_path ='trained_model/plant_disease_model.h5'
 # Load the pre-trained model
 model = tf.keras.models.load_model(model_path)
 
