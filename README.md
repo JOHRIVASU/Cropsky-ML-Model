@@ -27,9 +27,6 @@ Cropsky-ML-Model/
 ├── requirements.txt # Python dependencies
 └── README.md
 
-yaml
-Copy code
-
 ---
 
 ## 🧠 Model Details
@@ -55,20 +52,14 @@ Copy code
 ## ⚙️ Installation
 
 Clone the repository:
-
-```bash
 git clone https://github.com/JOHRIVASU/Cropsky-ML-Model.git
 cd Cropsky-ML-Model
 Install dependencies:
 
-bash
-Copy code
 pip install -r requirements.txt
 ▶️ Run the Application
 Navigate to the app directory and run the server (as per your app setup):
 
-bash
-Copy code
 cd app
 python app.py
 Then open the application in your browser.
