@@ -80,7 +80,6 @@ Crop health monitoring
 
 Agri-tech automation systems
 
-Research and academic projects
 
 👤 Author
 Vasu Johri
